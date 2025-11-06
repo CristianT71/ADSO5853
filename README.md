@@ -7,4 +7,6 @@ Acabamos de subir los ejercicios de las clases de php
 
 
 
-Los cambios han sido mejorados d
+Hemos mirado:
+commints
+ignorar carpetas con .gitignore
