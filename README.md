@@ -81,5 +81,5 @@
 
 <p align="center">
   <i>💬 “Building software is like composing music: each line of code is a note in the melody of innovation.”</i><br>
-  <sub>Last updated: November 2025 | Designed with ❤️ by CristianT71</sub>
+  <sub>Last updated: November 2025 | Designed with ❤️ by Cristian Trujillo</sub>
 </p>
