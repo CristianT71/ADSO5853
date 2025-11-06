@@ -1,85 +1,86 @@
-<!-- Banner Superior -->
+<!-- ================= HEADER ANIMADO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Cristian+Trujillo!;💻+Software+Developer+%7C+Tech+Enthusiast;🚀+Always+Building%2C+Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Cristian+Trujillo;Software+Developer+%7C+ADSO+Student;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
----
-
+<!-- ================= ASCII HEADER ================= -->
 <p align="center">
 <pre>
-░█████╗░██████╗░██╗███████╗████████╗██╗░█████╗░███╗░░██╗  ████████╗██████╗░██╗░░░██╗██╗██╗░░░░░██╗░░░░░
-██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝██║██╔══██╗████╗░██║  ╚══██╔══╝██╔══██╗██║░░░██║██║██║░░░░░██║░░░░░
-██║░░██║██████╦╝██║█████╗░░░░░██║░░░██║██║░░██║██╔██╗██║  ░░░██║░░░██████╦╝██║░░░██║██║██║░░░░░██║░░░░░
-██║░░██║██╔══██╗██║██╔══╝░░░░░██║░░░██║██║░░██║██║╚████║  ░░░██║░░░██╔══██╗██║░░░██║██║██║░░░░░██║░░░░░
-╚█████╔╝██████╦╝██║███████╗░░░██║░░░██║╚█████╔╝██║░╚███║  ░░░██║░░░██████╦╝╚██████╔╝██║███████╗███████╗
-░╚════╝░╚═════╝░╚═╝╚══════╝░░░╚═╝░░░╚═╝░╚════╝░╚═╝░░╚══╝  ░░░╚═╝░░░╚═════╝░░╚═════╝░╚═╝╚══════╝╚══════╝
+██████╗░██████╗░██╗░██████╗████████╗██╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝██║██╔══██╗████╗░██║
+██████╦╝██████╔╝██║╚█████╗░░░░██║░░░██║██║░░██║██╔██╗██║
+██╔══██╗██╔══██╗██║░╚═══██╗░░░██║░░░██║██║░░██║██║╚████║
+██████╦╝██║░░██║██║██████╔╝░░░██║░░░██║╚█████╔╝██║░╚███║
+╚═════╝░╚═╝░░╚═╝╚═╝╚═════╝░░░░╚═╝░░░╚═╝░╚════╝░╚═╝░░╚══╝
 </pre>
 </p>
 
-<h1 align="center">⚡ CRISTIAN TRUJILLO ⚡</h1>
-<h3 align="center">Creating solutions with purpose and passion</h3>
+<!-- ================= TITULO ================= -->
+<h2 align="center">Cristian Trujillo</h2>
+<h4 align="center">Software Developer | ADSO @ SENA</h4>
 
 ---
 
-### 👤 About Me
+## About
 
-🧩 **17-year-old Software Development Student (ADSO)** at SENA  
-💡 Passionate about **mobile, web & embedded systems**  
-🎯 Focused on **clean code, efficiency & software architecture**  
-🧠 Always learning, building, experimenting  
+Passionate about technology and innovation.  
+Currently focused on building scalable, minimal, and efficient systems.  
+Lover of clean code, backend logic, and pixel-perfect interfaces.
 
-> “The code is not just logic, it’s creativity shaped by syntax.”
+- 🎓 Studying Software Development (ADSO) at **SENA**
+- 💡 Interested in **Dart**, **Flutter**, **Python**, **System Architecture**
+- ⚙️ Exploring embedded and web technologies
+- 🧩 Always learning, always improving
 
 ---
 
-### 🧠 Tech Universe
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,dart,flutter,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,php,html,css,js,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-### ⚙️ GitHub Power Stats
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianT71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianT71&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CristianT71&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianT71&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CristianT71&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
----
-
-### 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CristianT71&theme=darkhub&margin-w=10&no-frame=true&row=1" alt="trophies" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=CristianT71&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## Activity & Achievements
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CristianT71/CristianT71/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CristianT71&theme=onedark&margin-w=10&no-frame=true&column=7" alt="trophies"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CristianT71/CristianT71/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-trujillo-15ba94370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/cristian_t71?igsh=MW55czI1MWU3dHVxag=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/CristianT7I"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:cristiandanilotrujillo123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cristian-trujillo-15ba94370/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/cristian_t71?igsh=MW55czI1MWU3dHVxag=="><img src="https://img.shields.io/badge/Instagram-8A3AB9?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:cristiandanilotrujillo123@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>💬 “Building software is like composing music: each line of code is a note in the melody of innovation.”</i><br>
-  <sub>Last updated: November 2025 | Designed with ❤️ by Cristian Trujillo</sub>
+  <sub>“Code is the most powerful tool to turn imagination into reality.”</sub><br>
+  <sub>Last updated: November 2025</sub>
 </p>
