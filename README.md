@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Cristian+Trujillo!;💻+Software+Developer+%7C+Tech+Enthusiast;🚀+Always+Building%2C+Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Cristian+Trujillo!;💻+Software+Developer+%7C+Tech+Enthusiast;🚀+Always+Building%2C+Always+Learning" alt="Typing Animation" />
 </p>
 
 ---
