@@ -18,7 +18,7 @@ if($numero > 10){
     echo "El número ingresado es mayor a 10";
 
 
-    echo "Cambiooo";
+    echo "Cambiooo 2"; 
 }
 ?>
 
